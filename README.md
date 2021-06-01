@@ -52,6 +52,7 @@ Now you can use vue 3 with typescript.
 * autoprefixer: ^9
 * babel-eslint: ^10.1.0
 * babel-plugin-import: ^1.13.3
+* compression-webpack-plugin: ^8.0.0
 * eslint: ^7.27.0
 * eslint-config-prettier: ^8.3.0
 * eslint-plugin-prettier: ^3.4.0
@@ -63,6 +64,7 @@ Now you can use vue 3 with typescript.
 * postcss: ^7
 * prettier: ^2.3.0
 * tailwindcss: npm:@tailwindcss/postcss7-compat
+* terser-webpack-plugin: ^5.1.3
 * typescript: ^4.3.2
 * vue-eslint-parser: ^7.6.0"
 
@@ -74,5 +76,7 @@ Now you can use vue 3 with typescript.
 The following error message may be received when performing initialization, but it does not affect the use:
 
 * "@vue/cli-plugin-eslint#eslint@>= 1.6.0 < 7.0.0" doesn't satisfy found match of "eslint@7.27.0"
+* "compression-webpack-plugin#webpack@^5.1.0" doesn't satisfy found match of "webpack@4.46.0"
 * "less-loader#webpack@^5.0.0" doesn't satisfy found match of "webpack@4.46.0"
+* "terser-webpack-plugin#webpack@^5.1.0" doesn't satisfy found match of "webpack@4.46.0"
 * "@vue/cli-plugin-eslint#eslint-loader#eslint@>=1.6.0 <7.0.0" doesn't satisfy found match of "eslint@7.27.0"
