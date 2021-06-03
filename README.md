@@ -4,11 +4,13 @@ A skeleton for use vue 3 + antd with typescript.
 
 ## Usage
 
-Make sure `yarn` cli is installed in your system. Download and unzip this repo to your project root path.
+1. Make sure `yarn` cli is installed in your system. Download and unzip this repo to your project root path.
 
-Execute `'yarn'` or `'yarn install'` or `'yarn upgrade'`.
+2. Execute `'yarn'` or `'yarn install'` or `'yarn upgrade'`.
 
-Use `'yarn add -D xxx'` or `'yarn add xxx'` to add your dependencies.
+3. Use `'yarn add -D xxx'` or `'yarn add xxx'` to add your dependencies.
+
+4. Create `'src'` dir in your project root path and write your own sources in it.
 
 Now you can use vue 3 with typescript.
 
