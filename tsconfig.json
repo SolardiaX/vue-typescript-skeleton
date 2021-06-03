@@ -23,7 +23,7 @@
     "noImplicitThis": true,
     "removeComments": false,
     "strictFunctionTypes": false,
-    "baseUrl": ".",
+    "baseUrl": "./src", 
     "types": [
       "webpack-env"
     ],
