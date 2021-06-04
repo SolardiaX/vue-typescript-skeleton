@@ -7,11 +7,10 @@ module.exports = {
     [
       'import',
       {
-        libraryName: 'ant-design-vue',
+        libraryName: 'Antd',
         libraryDirectory: 'es',
-        style: true,
-      },
-      'ant-design-vue',
+        style: 'css',
+      }
     ],
   ],
 }
